@@ -36,7 +36,7 @@ $users = $stmt_users->fetchAll(PDO::FETCH_ASSOC);
 
 <head>
     <title>Gestion des Utilisateurs (Admin)</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>

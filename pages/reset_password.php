@@ -44,7 +44,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $token !== null && $message === "") 
 
 <head>
     <title>Réinitialiser le mot de passe</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
